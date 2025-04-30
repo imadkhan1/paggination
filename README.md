@@ -1,4 +1,4 @@
-# paggination
+# paggination and lazy loading
 
 A new Flutter project.
 
